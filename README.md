@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Machcomputer
+- 👋 Hi, I’m wil
 - 👀 I’m interested in Magento 2
 - 🌱 I’m currently learning Magento 2
 - 💞️ I’m looking to collaborate on ...
